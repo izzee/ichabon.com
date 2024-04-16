@@ -12,7 +12,7 @@ media_library:
 
 collections:
   - name: 'posts'
-    label: 'Posts'
+    label: 'Post'
     folder: 'content/posts'
     format: 'frontmatter'
     create: true
