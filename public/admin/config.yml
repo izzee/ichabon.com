@@ -4,6 +4,11 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: o0o
+    api_key: 478312484494422
 
 collections:
   - name: 'posts'
