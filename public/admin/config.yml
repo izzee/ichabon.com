@@ -12,7 +12,8 @@ media_library:
 
 collections:
   - name: 'posts'
-    label: 'Post'
+    label: 'Posts'
+    label_singular: 'Post'
     folder: 'content/posts'
     format: 'frontmatter'
     create: true
